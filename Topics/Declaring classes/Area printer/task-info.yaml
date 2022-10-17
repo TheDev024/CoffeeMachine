@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Rectangle(val width: Int, val height: Int)
+
+    fun printArea(rectangle: Rectangle) {
+        // ...
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6208#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 17 Oct 2022 04:52:57 UTC
+record: -1
